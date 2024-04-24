@@ -1,9 +1,9 @@
-Welcome to WIZMOTOOLS's Manual Documentation!
+Welcome to WIZMO-TOOLS's Manual Documentation!
 ===================================
 
 **Lumache** (/lu'make/) is a Python library for cooks and food lovers
 that creates recipes mixing random ingredients.
-It pulls data from the `SIMVR リンク <https://motion.wizapply.com/simvr/>`_
+It pulls data from the `WIZMO-TOOLS <https://motion.wizapply.com/wizmotiontools/>`_
 and offers a *simple* and *intuitive* API.
 
 Check out the :doc:`usage` section for further information, including
