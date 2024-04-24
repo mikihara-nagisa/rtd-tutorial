@@ -1,4 +1,4 @@
-Welcome to SIMVR's Manual Documentation!
+Welcome to WIZMOTOOLS's Manual Documentation!
 ===================================
 
 **Lumache** (/lu'make/) is a Python library for cooks and food lovers
