@@ -16,7 +16,9 @@ how to :ref:`installation` the project.
 Contents
 --------
 
-.. toctree::
+.. toctree::   
+   :maxdepth: 2
 
-   usage
-   api
+   項目1
+   項目2
+   項目3
