@@ -11,13 +11,13 @@ how to :ref:`installation` the project.
 
 .. note::
 
-   This project is under active development.
+   これはマニュアル用のテストです。
 
 Contents
 --------
 
 .. toctree::   
    :maxdepth: 2
-   a
+   
    b
    c
