@@ -1,4 +1,4 @@
-Welcome to Lumache's documentation!
+Welcome to SIMVR's Manual Documentation!
 ===================================
 
 **Lumache** (/lu'make/) is a Python library for cooks and food lovers
