@@ -5,7 +5,7 @@ WIZMO-TOOLSは、WIZAPPLYのサポートが認定された多軸モーション�
 
 〇`WIZMO公式ホームページ<https://motion.wizapply.com/wizmotiontools/>`
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
+**WIZMO=TOOLS** (/lu'make/) is a Python library for cooks and food lovers
 that creates recipes mixing random ingredients.
 It pulls data from the `WIZMO-TOOLS <https://motion.wizapply.com/wizmotiontools/>`_
 and offers a *simple* and *intuitive* API.
